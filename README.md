@@ -3,7 +3,6 @@
   <img src="about-life.svg?v=1" alt="What I build — and facts about me" width="100%"/>
   <img src="stack.svg?v=1" alt="The stack I build with" width="100%"/>
   <img src="id-dashboard.svg?v=1" alt="ID badge and the honest dashboard" width="100%"/>
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%"/>
   <img src="connect.svg?v=1" alt="Let's build yours — connect with me" width="100%"/>
 </div>
 
